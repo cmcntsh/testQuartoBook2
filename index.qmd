@@ -1,0 +1,17 @@
+# Preface {.unnumbered}
+
+This is a Quarto book.
+
+To learn more about Quarto books visit <https://quarto.org/docs/books>.
+
+Steps to create this book using APA references published on GitHub.
+
+* Create new GitHub repo.
+* Clone repo on computer.
+* Create new Quarto book.
+* Copy Quarto book files to cloned repo.
+* Copy apa.csl file to cloned repo.
+* Add `output-dir: docs` to _quarto.yml under project: section.
+* Add `csl: apa.csl` to _quarto.yml at bottom of .yml file.
+* Push to GitHub.
+* Turn on GitHub Pages and serve from /docs.
